@@ -16,7 +16,9 @@
 		</p>
 		<h1>Why is Encapsulation important?</h1>
 		<p>
-			Encapsulation is important because in OOP, access to state variables can be a problem because it will subvert the behavior. Therefore encapsulation allows the objects state to be altered by setting access levels to each member and method. General strategy is to make the objects state private and methods public
+			Encapsulation is important because in OOP, access to state variables can be a problem because it will subvert the behavior. 		Therefore encapsulation allows the objects state to be altered by setting access levels to each member and method. General strategy 		is to make the objects state private and methods public
+			Once again, Disclaimer, If wrong, Is MDav's fault!
+			<img src="mattface.jpg" alt="Matt">
 		</p>
 	</body>
 </html>
